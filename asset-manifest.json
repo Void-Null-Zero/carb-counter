@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/carb-counter/static/js/main.213ccb02.js",
+    "main.js": "/carb-counter/static/js/main.0c9190cc.js",
     "index.html": "/carb-counter/index.html",
-    "main.213ccb02.js.map": "/carb-counter/static/js/main.213ccb02.js.map"
+    "main.0c9190cc.js.map": "/carb-counter/static/js/main.0c9190cc.js.map"
   },
   "entrypoints": [
-    "static/js/main.213ccb02.js"
+    "static/js/main.0c9190cc.js"
   ]
 }

@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/carb-counter/static/js/main.0c9190cc.js",
+    "main.css": "/carb-counter/static/css/main.11e5c106.css",
+    "main.js": "/carb-counter/static/js/main.2638f77f.js",
+    "static/js/453.9349420b.chunk.js": "/carb-counter/static/js/453.9349420b.chunk.js",
     "index.html": "/carb-counter/index.html",
-    "main.0c9190cc.js.map": "/carb-counter/static/js/main.0c9190cc.js.map"
+    "main.11e5c106.css.map": "/carb-counter/static/css/main.11e5c106.css.map",
+    "main.2638f77f.js.map": "/carb-counter/static/js/main.2638f77f.js.map",
+    "453.9349420b.chunk.js.map": "/carb-counter/static/js/453.9349420b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c9190cc.js"
+    "static/css/main.11e5c106.css",
+    "static/js/main.2638f77f.js"
   ]
 }
